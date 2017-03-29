@@ -33,7 +33,7 @@ const store = new Vuex.Store({
   state: {
     words: [],
     correctAnswers: 0,
-    successfulSessionCorrAnsw: 5,
+    successfulSessionCorrAnsw: 1,
     sessionState: defaultSessionState,
   },
   plugins: [createLogger({ collapsed: false })],
