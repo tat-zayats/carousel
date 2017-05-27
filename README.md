@@ -1,4 +1,4 @@
-# Карусель
+# Карусель [Live demo](https://zayats410.github.io/carousel/)
 
 **Требования:**
 * Необходимо реализовать карусельку, которая будет отображать карточки с английскими словами. В один момент отображаются две карточки.
@@ -7,8 +7,6 @@
 * Если человек успешно разгадал за сессию 5 или более слов - выводить попап (красивый, не confirm), предлагающий вступить в группу Javascript.Ninja в ВК. * Закрывать попап либо при клике по крестику, либо при клике по ссылке. 
 * Для получения списка рандомных слов использовать `http://api.wordnik.com/v4/words.json/randomWords?hasDictionaryDef=true&includePartOfSpeech=idiom&limit=10&api_key=a2a73e7b926c924fad7001ca3111acd55af2ffabf50eb4ae5`
 * Для получения перевода `https://glosbe.com/gapi/translate?from=eng&dest=rus&format=json&phrase=${СЛОВО ДЛЯ ПЕРЕВОДА}&pretty=true&pageSize=1&callback=test`. Необходимо сравнивать введенный перевод с каждым предложенным вариантом из ответа.
-
-[Live demo](https://zayats410.github.io/carousel/)
 
 ## Build Setup
 
