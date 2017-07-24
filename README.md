@@ -1,4 +1,4 @@
-# Carousel [Live demo](https://zayats410.github.io/carousel/)
+# Carousel [Live demo](https://tat-zayats.github.io/carousel/)
 
 **Requirements:**
 * Необходимо реализовать карусельку, которая будет отображать карточки с английскими словами. В один момент отображаются две карточки.
